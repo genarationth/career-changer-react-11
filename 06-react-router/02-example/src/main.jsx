@@ -8,7 +8,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Page2 from './Page_2';
-import Navbar from './Nav';
+
 
 const router = createBrowserRouter([
   {
